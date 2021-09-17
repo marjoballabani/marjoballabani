@@ -17,7 +17,7 @@ Currently working with React/Node/Python to build beautiful and complex software
 <br />
 Interested in learning new technologies.
 
-<p><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/11302354/133863716-75f46c8d-b1d1-4efd-9e88-ebefa2ad7b35.gif" width="400" height="300" /></p>
+<p><img align="left" alt="GIF" src="https://user-images.githubusercontent.com/11302354/133863716-75f46c8d-b1d1-4efd-9e88-ebefa2ad7b35.gif" width="400" height="300" /></p>
 <br />
 <br />
 <br />
