@@ -1,4 +1,4 @@
-<h2 align="center">Hi there<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="35px" width="35px">, I'm Marjo</h2>
+<h1 align="center">Hi there<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="45px" width="45px">, I'm Marjo</h1>
 
 <a href="https://www.linkedin.com/in/marjo-ballabani/">
   <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -26,7 +26,7 @@ Interested in learning new technologies.
 <br />
 🌱 I’m currently learning DS
 <br />
-👯 I’m looking to collaborate on opensource projects
+👯 I’m looking to collaborate on opensource
 <br />
 💬 Ask me about Javascript/React/Node
 <br />
