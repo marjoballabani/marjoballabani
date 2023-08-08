@@ -12,8 +12,8 @@
 
 ### About Me 🚀
 
-**Senior Software engineer with more than 6 years of programming experience.**
-Currently working with React/Node/Python to build beautiful and complex software solutions.I do my job with passion so it is easy for me to turn idea into a good software solution. Comfortable in team work and capable to design highly scaleable systems.
+**Senior Software engineer with more than 8 years of programming experience.**
+Currently working with React/Node/Python to build beautiful and complex software solutions. I do my job with a passion so it is easy for me to turn ideas into good software solutions. Comfortable in teamwork and capable of designing highly scalable systems.
 <br />
 Interested in learning new technologies.
 
